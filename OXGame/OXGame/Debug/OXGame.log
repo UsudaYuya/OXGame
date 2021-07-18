@@ -1,0 +1,15 @@
+﻿  OXGame.cpp
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(13,16): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(13,35): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(13,54): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(13,73): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(15,16): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(15,35): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(15,54): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(15,73): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(17,16): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(17,35): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(17,54): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(17,73): warning C4129: '|': エスケープ シーケンスとして正しく認識されませんでした。
+C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\OXGame\ox.h(157): warning C4715: 'OX::npc': 値を返さないコントロール パスがあります。
+  OXGame.vcxproj -> C:\Users\usuda yuya\OneDrive\デスクトップ\就活完成版\oxGame\OXGame\Debug\OXGame.exe
